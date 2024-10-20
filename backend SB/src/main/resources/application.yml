@@ -1,8 +1,8 @@
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://amangupta3317:guptag1212@jobListing.1dwlzyn.mongodb.net/jobListing?retryWrites=true&w=majority
-      database: jobListing
+      uri: YOUR_KEY_HERE
+      database: YOUR DATABASE NAME
 
 # Server port configuration
 server:
